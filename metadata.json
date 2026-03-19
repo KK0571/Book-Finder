@@ -1,0 +1,5 @@
+{
+  "name": "Book Finder",
+  "description": "Find a specific book on a bookshelf using AI",
+  "requestFramePermissions": ["camera"]
+}
